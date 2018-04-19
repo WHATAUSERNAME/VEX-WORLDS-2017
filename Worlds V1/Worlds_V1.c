@@ -21,8 +21,8 @@
 #include "Vex_Competition_Includes.c"
 
 // Include Jason's Gyro Filtering/ Motion Planning Libraries
-//#include "NERD_Gyro.c"
-//#include "motionplanner.c"
+#include "NERD_Gyro.c"
+#include "motionplanner.c"
 
 /*---------------------------------------------------------------------------*/
 /*                                                                           */
